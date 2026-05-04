@@ -1,0 +1,13 @@
+ValueChain,Score,Issues,Models,Status
+P2P,72,21,34,Amber
+O2C,68,22,58,Red
+H2R,74,19,31,Amber
+PO,65,21,35,Amber
+L2C,70,18,28,Amber
+R2R,78,15,42,Good
+S2P,66,24,38,Amber
+F2R,71,20,30,Amber
+I2C,69,23,45,Amber
+M2S,75,17,36,Good
+H2I,64,25,29,Red
+C2S,73,16,33,Amber
