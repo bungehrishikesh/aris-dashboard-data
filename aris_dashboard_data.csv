@@ -1,0 +1,36 @@
+Section,Metric,Value,Unit,Status
+Top KPIs,Overall Conformance,71,%,Amber
+Top KPIs,Overall Performance,68,%,Amber
+Top KPIs,Influence,65,%,Amber
+Summary,Value Chains Assessed,12,Count,Good
+Summary,Models in Scope,345,Count,Good
+Summary,High-Risk Processes,28,Count,Red
+Summary,Governance Gaps,17,Count,Red
+Summary,Mining Ready Processes,63,%,Amber
+Value Chain,P2P Score,72,Score,Amber
+Value Chain,P2P Issues,21,Count,Amber
+Value Chain,P2P Models,34,Count,Good
+Value Chain,O2C Score,68,Score,Amber
+Value Chain,O2C Issues,22,Count,Red
+Value Chain,O2C Models,58,Count,Good
+Value Chain,H2R Score,74,Score,Amber
+Value Chain,H2R Issues,19,Count,Amber
+Value Chain,H2R Models,31,Count,Good
+Value Chain,PO Score,65,Score,Amber
+Value Chain,PO Issues,21,Count,Amber
+Value Chain,PO Models,35,Count,Good
+Process,Mapped Processes,72,%,Amber
+Process,Owner Assigned,65,%,Amber
+Process,Model Currency,68,%,Amber
+Data Readiness,Data Completeness,68,%,Amber
+Data Readiness,Required Fields Available,63,%,Amber
+Data Readiness,Quality Score,71,%,Amber
+Technology Enablement,Application Mapping,74,%,Amber
+Technology Enablement,Integration Coverage,62,%,Amber
+Technology Enablement,Automation Support,66,%,Amber
+Role Readiness,Owner Coverage,65,%,Amber
+Role Readiness,Accountability Clarity,61,%,Amber
+Role Readiness,Manual Intervention Exposure,58,%,Red
+Governance Control,Control Coverage,61,%,Amber
+Governance Control,Review Recency,57,%,Red
+Governance Control,Risk Linkage,64,%,Amber
