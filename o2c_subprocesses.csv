@@ -1,0 +1,13 @@
+Number,SubProcess,Conformance,Performance,Influence,DT_ERP,DT_Other,Manual
+1,Order Capture,94,90,10,70,20,10
+2,Order Validation,68,58,14,20,40,40
+3,Credit Check,90,82,9,60,20,20
+4,Stock Check,87,77,8,50,30,20
+5,Prepare Order,88,83,8,65,25,10
+6,Pick & Pack,93,89,12,75,15,10
+7,Handover to Dispatch,91,86,11,70,20,10
+8,Invoice Creation,95,92,13,80,15,5
+9,Delivery Tracking,84,76,9,40,35,25
+10,Manual Exception Handling,45,42,15,10,25,65
+11,Automated Confirmation,89,88,6,60,30,10
+12,Cash Receipt,96,93,7,85,10,5
