@@ -1,0 +1,5 @@
+Number,Area,Issue,Severity
+1,Data Readiness,No data objects linked to any activity in the model,High
+2,Technology Enablement,Local dealer activities are manual - no system mapped,Medium
+3,Governance Control,No SLA defined for payment collection cycle,High
+4,Governance Control,No escalation owner defined for dunning notice process,Medium
