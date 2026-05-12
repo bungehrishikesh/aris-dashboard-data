@@ -1,0 +1,12 @@
+Area,Issue,Severity
+Data Readiness,No data objects linked to any activity in the model,High
+Data Readiness,Customer data completeness not validated,Medium
+Data Readiness,Contract data not formally linked to process,Medium
+Technology Enablement,Local dealer activities are manual - no system mapped,Medium
+Technology Enablement,No CRM system linked to quotation process,High
+Technology Enablement,Dunning notice system not formally assigned,Low
+Governance Control,No SLA defined for payment collection cycle,High
+Governance Control,No escalation owner defined for dunning notice process,Medium
+Governance Control,No compliance check on contract creation,High
+Governance Control,Payment term expiry threshold not documented,Medium
+Role Readiness,No issues found,Low
